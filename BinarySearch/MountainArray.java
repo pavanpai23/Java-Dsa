@@ -33,6 +33,8 @@ public class MountainArray {
         //more eloboration at every point of time for start and end,they have the best possible ans till that time
         //if we are saying only one item is remaining ,hence because of above line that is the best possible ans
 
+
+
         return start;   //or return end (because start==end)
     }
 }
