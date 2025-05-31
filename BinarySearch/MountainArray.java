@@ -34,7 +34,6 @@ public class MountainArray {
         //if we are saying only one item is remaining ,hence because of above line that is the best possible ans
 
 
-
         return start;   //or return end (because start==end)
     }
 }
