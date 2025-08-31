@@ -2,13 +2,14 @@ package pratices;
 import java.util.Scanner;
 public class sum {
     public static void main(String[] args) {
-        Scanner in=new Scanner(System.in);
+        
 
-        int num1=in.nextInt();
-        int num2= in.nextInt();
-
-        int sum=num1+num2;
-        System.out.println(sum + " ");
+       Scanner in=new Scanner(System.in);
+       int n=in.nextInt();
+        for (int num = 0; num <=n; num++) {
+            System.out.println("Pavan");
+            
+        }
+        }
+    
     }
-
-}
