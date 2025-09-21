@@ -10,6 +10,9 @@
       <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_8/evenodd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_9/IncomeTax.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Functions/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/binocofficent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/area.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/hello.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/input.java" afterDir="false" />
@@ -27,13 +30,8 @@
       <change afterPath="$PROJECT_DIR$/src/pattern/numbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pattern/reversestar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pattern/star.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Armstrongnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Armstrongnumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Switch/Switch_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch/Switch_Statement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pratices/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratices/sum.java" afterDir="false" />
     </list>
@@ -122,10 +120,12 @@
     "Application.basic.executor": "Run",
     "Application.basic_2.executor": "Run",
     "Application.binary.executor": "Run",
+    "Application.binocofficent.executor": "Run",
     "Application.breakstatement.executor": "Run",
     "Application.ceiling.executor": "Run",
     "Application.code.executor": "Run",
     "Application.evendigits.executor": "Run",
+    "Application.factorial.executor": "Run",
     "Application.fibo.executor": "Run",
     "Application.function.executor": "Run",
     "Application.hello.executor": "Run",
