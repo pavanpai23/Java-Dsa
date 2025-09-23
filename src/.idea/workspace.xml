@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_10/positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_7/largestof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_8/evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_9/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/binocofficent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/questions_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/suminput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Question/Q_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Question/Q_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/breakstatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/alpahabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/reversestar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch/Switch_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch/Switch_Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratices/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratices/sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/src" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/loops/Loop.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2valTxpdiUtgFiyhPKAhrZVBCyw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylistexamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casecheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Changevalue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Countnums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindinMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstandLastPoistion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncomeTax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfiniteSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxvalue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multidimentionalarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnosticBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question.Q_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variableargument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.alpahabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.area.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baisc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binocofficent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.breakstatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evendigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largestof2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mini2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.positive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.question_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversestar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchingString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.star.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.suminput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DEL/DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEL/DSA/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DEL\DSA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DEL\DSA_JAVA" />
+      <recent name="$PROJECT_DIR$/../../.." />
+      <recent name="C:\Users\DEL" />
+      <recent name="C:\Users\DEL\DSA\.idea" />
+      <recent name="C:\dsa" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="" />
+      <created>1744391077759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744391077759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

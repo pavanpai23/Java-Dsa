@@ -7,7 +7,7 @@ public class Armstrongnumber {
 //     System.out.println(Armstrong(n));
 
         for (int i = 100; i <1000 ; i++) {
-            if(Armstrong(i)){
+            if(Armstrong(i)) {
                 System.out.println(i + "");
             }
 
