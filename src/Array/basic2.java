@@ -1,6 +1,6 @@
 package Array;
  import java.util.Scanner;
-public class basic_2 {
+public class basic2 {
     public static void main(String[] args) {
 
         // arrays of primitives

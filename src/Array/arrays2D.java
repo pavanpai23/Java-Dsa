@@ -1,6 +1,6 @@
 package Array;
 import java.util.Scanner;
-public class Arrays_2D {
+public class arrays2D {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[][] array = new int[3][3];

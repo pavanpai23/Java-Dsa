@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_10/positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_7/largestof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_8/evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions/Questions/Q_9/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/questions_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/suminput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Question/Q_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pratices/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pratices/sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/loops/Loop.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2valTxpdiUtgFiyhPKAhrZVBCyw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrongnumber.executor": "Run",
+    "Application.Arraylistexamples.executor": "Run",
+    "Application.Arrays_2D.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Casecheck.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.Changevalue.executor": "Run",
+    "Application.Countnums.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
+    "Application.FindinMountainArray.executor": "Run",
+    "Application.First.executor": "Run",
+    "Application.FirstandLastPoistion.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.IncomeTax.executor": "Run",
+    "Application.InfiniteSortedArray.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.MaxWealth.executor": "Run",
+    "Application.Maxvalue.executor": "Run",
+    "Application.Minimum.executor": "Run",
+    "Application.MountainArray.executor": "Run",
+    "Application.Multidimentionalarrays.executor": "Run",
+    "Application.OrderAgnosticBS.executor": "Run",
+    "Application.Primenumber.executor": "Run",
+    "Application.Q_1.executor": "Run",
+    "Application.Q_8.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.RotatedBS.executor": "Run",
+    "Application.SearchIn2DArrays.executor": "Run",
+    "Application.SearchinRange.executor": "Run",
+    "Application.Searching.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
+    "Application.String_basic.executor": "Run",
+    "Application.Switch_statement.executor": "Run",
+    "Application.Temp.executor": "Run",
+    "Application.Variableargument.executor": "Run",
+    "Application.area.executor": "Run",
+    "Application.baisc.executor": "Run",
+    "Application.basic_2.executor": "Run",
+    "Application.binary.executor": "Run",
+    "Application.ceiling.executor": "Run",
+    "Application.code.executor": "Run",
+    "Application.fibo.executor": "Run",
+    "Application.function.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.input.executor": "Run",
+    "Application.largest.executor": "Run",
+    "Application.largestof2.executor": "Run",
+    "Application.mini2DArray.executor": "Run",
+    "Application.nested.executor": "Run",
+    "Application.pattern.executor": "Run",
+    "Application.positive.executor": "Run",
+    "Application.pro.executor": "Run",
+    "Application.product.executor": "Run",
+    "Application.question_2.executor": "Run",
+    "Application.questions.executor": "Run",
+    "Application.searching.executor": "Run",
+    "Application.searchingString.executor": "Run",
+    "Application.sum.executor": "Run",
+    "Application.suminput.executor": "Run",
+    "Application.swap.executor": "Run",
+    "Application.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/DEL/DSA/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="" />
+      <created>1744391077759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744391077759</updated>
+    </task>
+    <servers />
+  </component>
+</project>
