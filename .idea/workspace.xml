@@ -5,68 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4b9d5f-4f7a-4ef0-8dad-05c69fc98665" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Conditions/Questions/Q_10/positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/Questions/Q_7/largestof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/Questions/Q_8/evenodd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/Questions/Q_9/IncomeTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/binocofficent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/primeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/swapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/questions_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/suminput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/Question/Q_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/Question/Q_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/breakstatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/alpahabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/reversestar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratices/sum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/binarysearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/largest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/linearsearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Functions/primenum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Arraylistexamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Arrays_2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Maxvalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Multidimentionalarrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/String_basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/basic_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/Ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/FindingMountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/FirstandLastPoistion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/Floor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/InfiniteSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/MountainArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/OrderAgnosticBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/RotatedBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/Searching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/SmallestLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_1/largest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_2/Casecheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_3/fibo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_4/Countnums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_5/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditions/Questions/Q_6/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Armstrongnumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Changevalue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Primenumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Stringexample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/Variableargument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions/swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_DSA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/EvenDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/MaxWealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/Minimum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/SearchIn2DArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/SearchinRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/mini2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/searching.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/searchingString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Temp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/binary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/leetcode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/pro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratices/sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/Switch_Statement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Functions/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/factorials.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Functions/primeno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_DSA/JAVA_DSA" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_DSA/JAVA_DSA" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JAVA_DSA/JAVA_DSA/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/Array/Arraylistexamples.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/Array/Arrays_2D.java" beforeDir="false" />
@@ -188,105 +164,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Armstrongnumber.executor": "Run",
-    "Application.Arraylistexamples.executor": "Run",
-    "Application.Arrays_2D.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.Casecheck.executor": "Run",
-    "Application.Ceiling.executor": "Run",
-    "Application.Changevalue.executor": "Run",
-    "Application.Countnums.executor": "Run",
-    "Application.EvenDigits.executor": "Run",
-    "Application.FindinMountainArray.executor": "Run",
-    "Application.First.executor": "Run",
-    "Application.FirstandLastPoistion.executor": "Run",
-    "Application.Floor.executor": "Run",
-    "Application.IncomeTax.executor": "Run",
-    "Application.InfiniteSortedArray.executor": "Run",
-    "Application.Loop.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.MaxWealth.executor": "Run",
-    "Application.Maxvalue.executor": "Run",
-    "Application.Minimum.executor": "Run",
-    "Application.MountainArray.executor": "Run",
-    "Application.Multidimentionalarrays.executor": "Run",
-    "Application.OrderAgnosticBS.executor": "Run",
-    "Application.Primenumber.executor": "Run",
-    "Application.Q_1.executor": "Run",
-    "Application.Q_10.executor": "Run",
-    "Application.Q_8.executor": "Run",
-    "Application.Question.Q_1.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.RotatedBS.executor": "Run",
-    "Application.SearchIn2DArrays.executor": "Run",
-    "Application.SearchinRange.executor": "Run",
-    "Application.Searching.executor": "Run",
-    "Application.SmallestLetter.executor": "Run",
-    "Application.String_basic.executor": "Run",
-    "Application.Switch_Statement.executor": "Run",
-    "Application.Switch_statement.executor": "Run",
-    "Application.Temp.executor": "Run",
-    "Application.Variableargument.executor": "Run",
-    "Application.alpahabet.executor": "Run",
-    "Application.area.executor": "Run",
-    "Application.baisc.executor": "Run",
-    "Application.basic.executor": "Run",
-    "Application.basic_2.executor": "Run",
-    "Application.binary.executor": "Run",
-    "Application.binarysearch.executor": "Run",
-    "Application.binocofficent.executor": "Run",
-    "Application.breakstatement.executor": "Run",
-    "Application.ceiling.executor": "Run",
-    "Application.code.executor": "Run",
-    "Application.evendigits.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.factorials.executor": "Run",
-    "Application.fibo.executor": "Run",
-    "Application.function.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.input.executor": "Run",
-    "Application.largest.executor": "Run",
-    "Application.largestof2.executor": "Run",
-    "Application.linearsearch.executor": "Run",
-    "Application.mini2DArray.executor": "Run",
-    "Application.nested.executor": "Run",
-    "Application.numbers.executor": "Run",
-    "Application.pattern.executor": "Run",
-    "Application.positive.executor": "Run",
-    "Application.primenum.executor": "Run",
-    "Application.pro.executor": "Run",
-    "Application.product.executor": "Run",
-    "Application.question_2.executor": "Run",
-    "Application.questions.executor": "Run",
-    "Application.reversestar.executor": "Run",
-    "Application.searching.executor": "Run",
-    "Application.searchingString.executor": "Run",
-    "Application.star.executor": "Run",
-    "Application.sum.executor": "Run",
-    "Application.suminput.executor": "Run",
-    "Application.swap.executor": "Run",
-    "Application.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DEL/DSA",
-    "onboarding.tips.debug.path": "C:/Users/DEL/DSA/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylistexamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casecheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Changevalue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Countnums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindinMountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstandLastPoistion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Floor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncomeTax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfiniteSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxWealth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maxvalue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MountainArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multidimentionalarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnosticBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question.Q_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variableargument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.alpahabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.area.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baisc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binarysearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binocofficent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.breakstatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evendigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorials.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largestof2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mini2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.positive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primenum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.question_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.questions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversestar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchingString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.star.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.suminput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DEL/DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DEL/DSA/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DEL\DSA" />

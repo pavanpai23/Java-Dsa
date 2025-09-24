@@ -1,6 +1,6 @@
 package Switch;
 import java.util.Scanner;
-public class Switch_statement {
+public class Switch_Statement {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
